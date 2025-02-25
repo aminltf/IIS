@@ -86,9 +86,8 @@ Here are the available options:
 - The script includes built-in error handling to ensure that operations such as adding/removing websites or starting/stopping IIS are done safely.
 - It will prompt you if a required operation is invalid (e.g., missing website name, incorrect file paths) and help you fix it.
 
-## License
-
-This script is provided under the **MIT License**. You are free to use, modify, and distribute it as long as you include the original copyright and license notice.
+## Author
+Developed by https://github.com/aminltf.
 
 ---
 
